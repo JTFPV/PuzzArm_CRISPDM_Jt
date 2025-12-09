@@ -20,7 +20,7 @@ perfect model.
 
 ---
 
-## Models & results (ICTAII502)
+## Models & results
 
 Final processed dataset = **50 images** (5 per digit 0–9), split roughly 70/20/10 into
 train / validation / test.
@@ -43,7 +43,7 @@ MobileNetV2 clearly does better than the simple CNN, so that’s the model I tre
 
 ---
 
-## Deployment / demo (ICTAII501)
+## Deployment / demo
 
 The main training notebook also has a small **inference demo**:
 
